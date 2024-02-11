@@ -1,5 +1,5 @@
 # Shiny Utils
-## Requires Monke Notification Lib!
+## Requires [Monke Notification Lib](https://github.com/CrafterBotOfficial/MonkeNotificationLib/tree/main)!
 
 Shows when a user spawns an RPC. Only ones currently detected are: Soda Bubble (Don't worry if the person spawning is master), Projectile rpcs (Slingshot, snowball, ect.) and water splashing
 
